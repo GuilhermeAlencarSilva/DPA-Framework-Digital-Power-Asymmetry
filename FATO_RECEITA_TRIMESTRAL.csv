@@ -1,0 +1,81 @@
+Plataforma,Empresa,Ano,Trimestre,Receita_USD,Tipo_Dado,Fonte
+YouTube,Alphabet,2020,Q1,4000000000,Reportado,10-Q
+YouTube,Alphabet,2020,Q2,3800000000,Reportado,10-Q
+YouTube,Alphabet,2020,Q3,5000000000,Reportado,10-Q
+YouTube,Alphabet,2020,Q4,6900000000,Reportado,10-K
+YouTube,Alphabet,2021,Q1,6000000000,Reportado,10-Q
+YouTube,Alphabet,2021,Q2,7000000000,Reportado,10-Q
+YouTube,Alphabet,2021,Q3,7200000000,Reportado,10-Q
+YouTube,Alphabet,2021,Q4,8700000000,Reportado,10-K
+YouTube,Alphabet,2022,Q1,6800000000,Reportado,10-Q
+YouTube,Alphabet,2022,Q2,7300000000,Reportado,10-Q
+YouTube,Alphabet,2022,Q3,7100000000,Reportado,10-Q
+YouTube,Alphabet,2022,Q4,8000000000,Reportado,10-K
+YouTube,Alphabet,2023,Q1,6700000000,Reportado,10-Q
+YouTube,Alphabet,2023,Q2,7700000000,Reportado,10-Q
+YouTube,Alphabet,2023,Q3,8000000000,Reportado,10-Q
+YouTube,Alphabet,2023,Q4,9200000000,Reportado,10-K
+Netflix,Netflix Inc,2020,Q1,5767000000,Reportado,10-Q
+Netflix,Netflix Inc,2020,Q2,6148000000,Reportado,10-Q
+Netflix,Netflix Inc,2020,Q3,6436000000,Reportado,10-Q
+Netflix,Netflix Inc,2020,Q4,6644000000,Reportado,10-K
+Netflix,Netflix Inc,2021,Q1,7163000000,Reportado,10-Q
+Netflix,Netflix Inc,2021,Q2,7342000000,Reportado,10-Q
+Netflix,Netflix Inc,2021,Q3,7483000000,Reportado,10-Q
+Netflix,Netflix Inc,2021,Q4,7709000000,Reportado,10-K
+Netflix,Netflix Inc,2022,Q1,7868000000,Reportado,10-Q
+Netflix,Netflix Inc,2022,Q2,7970000000,Reportado,10-Q
+Netflix,Netflix Inc,2022,Q3,7926000000,Reportado,10-Q
+Netflix,Netflix Inc,2022,Q4,7852000000,Reportado,10-K
+Netflix,Netflix Inc,2023,Q1,8162000000,Reportado,10-Q
+Netflix,Netflix Inc,2023,Q2,8187000000,Reportado,10-Q
+Netflix,Netflix Inc,2023,Q3,8542000000,Reportado,10-Q
+Netflix,Netflix Inc,2023,Q4,8833000000,Reportado,10-K
+Spotify,Spotify,2020,Q1,1848000000,Reportado,Earnings
+Spotify,Spotify,2020,Q2,1889000000,Reportado,Earnings
+Spotify,Spotify,2020,Q3,1975000000,Reportado,Earnings
+Spotify,Spotify,2020,Q4,2168000000,Reportado,Earnings
+Spotify,Spotify,2021,Q1,2147000000,Reportado,Earnings
+Spotify,Spotify,2021,Q2,2331000000,Reportado,Earnings
+Spotify,Spotify,2021,Q3,2501000000,Reportado,Earnings
+Spotify,Spotify,2021,Q4,2689000000,Reportado,Earnings
+Spotify,Spotify,2022,Q1,2661000000,Reportado,Earnings
+Spotify,Spotify,2022,Q2,2864000000,Reportado,Earnings
+Spotify,Spotify,2022,Q3,3036000000,Reportado,Earnings
+Spotify,Spotify,2022,Q4,3199000000,Reportado,Earnings
+Spotify,Spotify,2023,Q1,3036000000,Reportado,Earnings
+Spotify,Spotify,2023,Q2,3218000000,Reportado,Earnings
+Spotify,Spotify,2023,Q3,3381000000,Reportado,Earnings
+Spotify,Spotify,2023,Q4,3670000000,Reportado,Earnings
+Instagram,Meta,2020,Q1,4840000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2020,Q2,5280000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2020,Q3,5500000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2020,Q4,6380000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2021,Q1,7128000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2021,Q2,7776000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2021,Q3,8100000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2021,Q4,9396000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2022,Q1,9504000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2022,Q2,10368000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2022,Q3,10800000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2022,Q4,12528000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2023,Q1,10956000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2023,Q2,11952000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2023,Q3,12450000000,Estimado_eMarketer,eMarketer
+Instagram,Meta,2023,Q4,14442000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2020,Q1,1012000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2020,Q2,1104000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2020,Q3,1150000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2020,Q4,1334000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2021,Q1,2068000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2021,Q2,2256000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2021,Q3,2350000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2021,Q4,2726000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2022,Q1,2420000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2022,Q2,2640000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2022,Q3,2750000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2022,Q4,3190000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2023,Q1,3542000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2023,Q2,3864000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2023,Q3,4025000000,Estimado_eMarketer,eMarketer
+TikTok,ByteDance,2023,Q4,4669000000,Estimado_eMarketer,eMarketer
