@@ -156,21 +156,31 @@ O projeto é dividido em 5 páginas:
 
 Página 1 — Visão Geral Estrutural
 
+<img width="1022" height="698" alt="1" src="https://github.com/user-attachments/assets/a3a8911b-44f2-4f30-97ee-717535f8f125" />
+
 Fotografia da distribuição de poder no mercado.
 
 Página 2 — Dinâmica Temporal
+
+<img width="1021" height="695" alt="2" src="https://github.com/user-attachments/assets/b7804fdc-e64d-49cb-9c5a-1f7562ddff8c" />
 
 Evolução da dominância e concentração.
 
 Página 3 — Análise de Sensibilidade
 
+<img width="1020" height="697" alt="3" src="https://github.com/user-attachments/assets/84ca1b6e-48cb-4fae-a503-b35f50330bae" />
+
 Elasticidade estrutural e robustez competitiva.
 
 Página 4 — Síntese Estratégica
 
+<img width="1314" height="771" alt="4" src="https://github.com/user-attachments/assets/27ddeee4-cfc1-4784-b7f4-91852b23c6e6" />
+
 Classificação e posicionamento competitivo.
 
 Página 5 — Metodologia
+
+<img width="728" height="764" alt="5" src="https://github.com/user-attachments/assets/53e8525f-a09f-49ae-b380-b66520067187" />
 
 Formalização do framework.
 
