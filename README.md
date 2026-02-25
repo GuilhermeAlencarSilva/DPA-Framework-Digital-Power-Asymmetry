@@ -395,7 +395,7 @@ Framework proprietário DPA™ — Digital Power Asymmetry.
 
 👤 Autor
 
-[Seu Nome Aqui]
+Guilherme Alencar - linkedin: https://www.linkedin.com/in/guilherme-alencar-327413213/
 
 Especialização em:
 
